@@ -162,3 +162,4 @@ go run main.go
   - Path param: `version` - Version string
   - Query param: `platform` - Target platform
   - Response: Binary file download
+# Tuzomartapp
