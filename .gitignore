@@ -39,3 +39,4 @@ Thumbs.db
 *.tmp
 *.temp
 adrian-plus-project-firebase-adminsdk-fbsvc-81e60c3ca4.json
+.env
